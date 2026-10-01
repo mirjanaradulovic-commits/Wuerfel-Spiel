@@ -1,1 +1,1 @@
-# w-rfel-spiel
+# wuerfel-spiel
